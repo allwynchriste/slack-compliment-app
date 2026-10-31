@@ -1,0 +1,3 @@
+{
+  "functions": { "api/compliment.js": { "maxDuration": 5 } }
+}

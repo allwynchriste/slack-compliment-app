@@ -1,0 +1,7 @@
+{
+  "name": "slack-compliment-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Slack app that answers /compliment with a random compliment, posted in the channel.",
+  "engines": { "node": ">=18" }
+}

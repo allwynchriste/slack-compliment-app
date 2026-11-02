@@ -10,7 +10,7 @@ A tiny Slack app with one job: when someone types `/compliment` in a channel, it
 
 ## Deploy
 
-- Deploy this repo on Vercel. The endpoint is `https://<your-project>.vercel.app/api/compliment`.
+- Deploy this repo on Vercel. This one lives at `https://slack-compliment-app-theta.vercel.app/api/compliment`.
 - In Vercel, add the environment variable `SLACK_SIGNING_SECRET` (from your Slack app's Basic Information page).
 - In the Slack app, create a slash command `/compliment` with that endpoint as the Request URL.
 
